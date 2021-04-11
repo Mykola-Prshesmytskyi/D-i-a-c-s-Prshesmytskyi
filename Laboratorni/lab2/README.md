@@ -1,1 +1,1 @@
-Лаб2
+HELLO WORLD
